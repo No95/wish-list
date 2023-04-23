@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_ui_section caption="New Section" section_id="b77aede6975221107dceb9dfe153afd8" sys_domain="global" table="x_606284_wish_list_wish_item" version="3" view="">
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>url</element>
+            <position>0</position>
+            <sys_created_by>BL62F3EN</sys_created_by>
+            <sys_created_on>2023-04-22 10:36:45</sys_created_on>
+            <sys_id>777a212a975221107dceb9dfe153af2e</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="New Section" display_value="New Section" name="x_606284_wish_list_wish_item" sys_domain="global" view="Default view">b77aede6975221107dceb9dfe153afd8</sys_ui_section>
+            <sys_updated_by>BL62F3EN</sys_updated_by>
+            <sys_updated_on>2023-04-22 10:36:45</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>.split</element>
+            <position>1</position>
+            <sys_created_by>BL62F3EN</sys_created_by>
+            <sys_created_on>2023-04-22 10:36:45</sys_created_on>
+            <sys_id>f77a212a975221107dceb9dfe153af2e</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="New Section" display_value="New Section" name="x_606284_wish_list_wish_item" sys_domain="global" view="Default view">b77aede6975221107dceb9dfe153afd8</sys_ui_section>
+            <sys_updated_by>BL62F3EN</sys_updated_by>
+            <sys_updated_on>2023-04-22 10:36:45</sys_updated_on>
+            <sys_user/>
+            <type>.split</type>
+        </sys_ui_element>
+        <sys_ui_section action="INSERT_OR_UPDATE">
+            <caption>New Section</caption>
+            <header>false</header>
+            <name>x_606284_wish_list_wish_item</name>
+            <roles/>
+            <sys_class_name>sys_ui_section</sys_class_name>
+            <sys_created_by>BL62F3EN</sys_created_by>
+            <sys_created_on>2023-04-22 10:36:44</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>b77aede6975221107dceb9dfe153afd8</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>x_606284_wish_list_wish_item</sys_name>
+            <sys_overrides/>
+            <sys_package display_value="Wish List" source="x_606284_wish_list">6baedde6971221107dceb9dfe153af56</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Wish List">6baedde6971221107dceb9dfe153af56</sys_scope>
+            <sys_update_name>sys_ui_section_b77aede6975221107dceb9dfe153afd8</sys_update_name>
+            <sys_updated_by>BL62F3EN</sys_updated_by>
+            <sys_updated_on>2023-04-22 10:36:44</sys_updated_on>
+            <sys_user/>
+            <title>false</title>
+            <view display_value="Default view" name="NULL">Default view</view>
+            <view_name/>
+        </sys_ui_section>
+    </sys_ui_section>
+</record_update>
